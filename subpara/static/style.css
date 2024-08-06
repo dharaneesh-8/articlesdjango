@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+}
+.navbar{
+    background-color: black;
+    color: aliceblue;
+}
+div > a{
+    display: flex;
+    flex-direction: row;
+    padding: 3px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+
+.bk{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: bisque;
+    flex-wrap: wrap;
+    text-decoration: none;
+    height: 20%;
+    margin: 5px 400px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0 14px 18px rgba(0, 0, 0, 0.2); /* Add shadow here */
+}
+p{
+    text-align: center;
+}
+.bg{
+    background-color: aqua;
+}
